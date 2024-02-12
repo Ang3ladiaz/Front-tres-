@@ -1,4 +1,4 @@
-import Navbar from "./Navbar.jxs";
+import Navbar from "./Navbar.jsx";
 
 function App() {
   return (
